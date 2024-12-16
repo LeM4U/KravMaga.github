@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    font-family: sans-serif;
+    margin: 0;
+}
+
+div, h1{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.button{
+    float: right;
+    margin: 10px;
+    
+
+}
+
+button{
+    padding: 10px;
+    margin: 0 10px;
+    background: transparent;
+    border-width: 2px;
+    color: #f2f0eb;
+    border-radius: 10px;
+    border-color: #f2f0eb;
+    border-style: groove;
+    
+}
+.logo{
+    padding: 10px;
+}
+
+
+
+.bar{
+    padding: 5px;
+}
+
+.CONT1{
+
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(https://wallpapercave.com/wp/wp2052317.jpg);
+    color: #f2f0eb;
+    background-size: cover;
+}
+
+.TITLE1{
+    padding: 200px 20px;
+    text-align: left;
+    font-size: 30px;
+    width: 54%;
+}
+
+.CONT2{
+    background-image: linear-gradient(rgba(0,0,0,0.50),rgba(0,0,0,0.50)), url(https://wallpapers.com/images/hd/4k-black-3840-x-2160-background-m8k0dox5n1m3gcbt.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    background-color: #161616;
+    font-family: sans-serif;
+    color: #f2f0eb;
+    box-sizing: content-box;
+    text-wrap: wrap;
+}
+
+.TITLE2{
+    padding: 50px 20px 20px 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.INF1{
+    padding: 30px;
+    width: 75%;
+    height: 244px;
+    font-size: 20px;
+    float: left;
+    box-sizing: border-box;
+}
+
+.CI1{
+    width: 25%;
+    padding: 20px 45px;
+    box-sizing: border-box;
+    float: right;
+}
+
+.CII1{
+    border-radius: 10px;
+}
+
+.TITLE3{
+    font-size: 20px;
+    text-align: center;
+}
+
+.INF2{
+    padding: 30px;
+    width: 75%;
+    font-size: 20px;
+    float: right;
+    box-sizing: border-box;
+}
+
+
+.CI2{
+    width: 25%;
+    padding: 20px 45px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.CONT3{
+    background-color: #000;
+    padding: 20px;
+}
+
+.CI3{
+    padding: 20px 25%;
+    box-sizing: content-box;
+
+}
+
+.CII3{
+    padding: 20px;
+    border-radius: 30px;
+}
+
+.text1{
+    text-align: center;
+    color: #f2f0eb;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-wrap: wrap;
+    padding: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
